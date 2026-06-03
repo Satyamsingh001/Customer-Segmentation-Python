@@ -1,4 +1,4 @@
-# 🏦 ICICI Bank Customer Segmentation Using K-Means Clustering
+#  ICICI Bank Customer Segmentation Using K-Means Clustering
 
 ##  Project Overview
 
